@@ -2,7 +2,7 @@
 Testing the Styled components
 
 # Frontend Mentor - Product preview card component
-Ce petit projet de construction d'une card à pour but d'essayer d'utiliser les "Styled components" pour la mise en forme (CSS) de la page. 
+Ce petit projet de construction d'une card a pour but d'essayer d'utiliser les "styled components" pour la construction du CSS de la page. 
 J'ai choisi cette méthode de mise en forme du style car selon l'enquête 'state of CSS' (https://2021.stateofcss.com/en-US/technologies/css-in-js/), elle remporte un haut taux de satisfaction.
 Par ailleurs, sa prise en main est vraiment rapide et intuitive. 
 
